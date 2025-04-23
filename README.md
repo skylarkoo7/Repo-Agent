@@ -105,12 +105,6 @@ return {**state, "retrievelink": response_text}
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 📬 Contact
 
 For questions or contributions, feel free to reach out:
