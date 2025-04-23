@@ -1,0 +1,9 @@
+{
+    "framework": "langgraph",
+    "tools": [],
+    "default_model": "openai/gpt-4o",
+    "agentstack_version": "0.3.5",
+    "template": "opensourcerepo",
+    "template_version": "4",
+    "use_git": true
+}

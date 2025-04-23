@@ -1,0 +1,15 @@
+create_vector_db:
+  description: >-
+    Add your description here
+  expected_output: >-
+    Add your expected_output here
+  agent: >-
+    full_rag_chain
+extract_issue_urls:
+  description: >-
+    Add your description here
+  expected_output: >-
+    Add your expected_output here
+  agent: >-
+    full_rag_chain
+
