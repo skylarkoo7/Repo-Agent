@@ -115,8 +115,8 @@ This project is licensed under the **MIT License**.
 
 For questions or contributions, feel free to reach out:
 
-- **GitHub:** [Fenil Faldu](https://github.com/fenilfaldu?tab=repositories)
-- **Email:** fenilfaldu143@gmail.com
+- **GitHub:** [Neel Harsola](https://github.com/skylarkoo7)
+- **Email:** work.neelharsola@gmail.com
 
 ---
 
